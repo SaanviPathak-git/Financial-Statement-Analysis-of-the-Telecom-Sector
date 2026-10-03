@@ -1,1 +1,1 @@
-# Financial-Statement-Analysis-of-the-Telecom-Sector
+# Financial-Statement-Analysis-of-the-FMCG-Sector
